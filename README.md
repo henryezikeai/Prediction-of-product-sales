@@ -34,7 +34,7 @@ The R^2 score of 0.592 for our Random Forest Regressor indicates that the model 
 
 ### Interpretation
 
-From the coefficients barplot, we can deduce that Outlet_Identifier_OUT013, Outlet_Establishment_Year etc all contribute positively towards total sales. 
+From the coefficients barplot, we can deduce that Outlet_Identifier_OUT013, Outlet_Establishment_Year, outlet_type etc all contribute positively towards total sales. 
 
 # Model Insigts - RandomForest
 
